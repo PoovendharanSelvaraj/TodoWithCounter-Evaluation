@@ -1,11 +1,10 @@
-import React from "react";
-import Counter from "./components/Counter/Counter";
+import React, { useState } from "react";
 import TaskApp from "./components/TaskApp";
 
 function App() {
   return (
     <div>
-      <Counter />
+      <TaskApp />
     </div>
   );
 }

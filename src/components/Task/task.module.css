@@ -1,3 +1,7 @@
 .task {
   /* Sample  */
+  display: flex;
+}
+.done {
+  text-decoration: line-through;
 }
